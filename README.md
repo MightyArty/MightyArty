@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Python, C and C++
 - 👯 I’m looking to collaborate on multipile platforms and interesting projects :)
 - 📫 **How to reach me** : tomshabalin95@gmail.com / artium.shablin@msmail.ariel.ac.il
-- :mortar_board: **My knwoledge** : Java, Python, Assembly and C
+- :mortar_board: **My knwoledge** : Java, Python and C
