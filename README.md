@@ -2,7 +2,6 @@
 
 - :student: 2'nd year student in Computer Science and Mathematics at Ariel University in Israel
 - 🌱 Currently learning Python, C and C++
-- 👯 I’m looking to collaborate on multipile platforms and interesting projects :)
 - :mortar_board: **My knwoledge** : Java, Python and C
 - 📫 **How to reach me** : 
   - :email: [gmail](tomshabalin95@gmail.com) / [university mail](artium.shablin@msmail.ariel.ac.il)
