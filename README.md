@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - My name is Artem Shabalin and I'm a 2'nd year student in Computer Science.
-- :email: [gmail](tomshabalin95@gmail.com) / [university mail](artium.shablin@msmail.ariel.ac.il)
 - :office: [LinkedIn](https://www.linkedin.com/in/artem-shabalin-751724218/)
 
 
