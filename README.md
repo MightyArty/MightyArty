@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artem</h1>
+<h1 align="center">Hi 👋, I'm Tom</h1>
 <h3 align="center">2nd year Computer Science student</h3>
 
 - 📫 How to reach me **artemforwork10@gmail.com**
