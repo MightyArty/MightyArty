@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">2nd year Computer Science student</h3>
+<h3 align="center">Third year Computer Science student</h3>
 
 - 📫 How to reach me **tomshabalin95@gmail.com**
 
