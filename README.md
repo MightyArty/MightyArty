@@ -10,4 +10,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,cs,cpp,c,css,python,react,mysql,mongodb,linux&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,cs,cpp,c,css,javascript,python,react,mysql,mongodb,linux&theme=dark)](https://skills.thijs.gg)
